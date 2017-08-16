@@ -9,19 +9,19 @@ var articles={
     'article-one':{
         title:'Article One | Thilak Chander',
         heading:'Article One',
-        date:'16 August 2017',
+        date:'16 August 2017,8.00pm',
         content:'<p>This is my content served by Article One.</p>'
 },
     'article-two':{
         title:'Article Two | Thilak Chander',
         heading:'Article Two',
-        date:'16 August 2017',
+        date:'16 August 2017,9.00pm',
         content:'<p>This is my content served by Article Two.</p>'
     },
     'article-three':{
         title:'Article Three | Thilak Chander',
         heading:'Article Three',
-        date:'16 August 2017',
+        date:'16 August 2017,10.00pm',
         content:'<p>This is my content served by Article Three.</p>'
     }
 };
