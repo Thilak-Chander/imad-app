@@ -11,6 +11,7 @@ app.get('/', function (req, res) {
 
 app.get('/article-one', function (req, res) {
   res.sendFile("Article One is requested and is served here");
+});
 
 app.get('/article-two', function (req, res) {
   res.sendFile("Article Two is requested and is served here");
